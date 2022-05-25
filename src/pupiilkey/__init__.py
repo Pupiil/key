@@ -5,4 +5,4 @@ pupiil_key.__init__
 - License: MIT LICENSE
 """
 
-from . import key
+from . import key  # noqa: F401
